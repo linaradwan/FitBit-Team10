@@ -1,0 +1,760 @@
+{
+	"currentLocation" : { 
+			"name" : "London, ON, Canada","coordinates" : "42.9869502,-81.243177" 
+	},
+	"locations" : [
+		{
+			"name" : "Kabul, Afghanistan","coordinates" : "34.533056,69.166111","distance" : "10080.765301320886","achieved" : "false"
+		},
+		{
+			"name" : "Tirana, Albania","coordinates" : "41.333333,19.8","distance" : "7188.338932453449","achieved" : "false"
+		},
+		{
+			"name" : "Algiers, Algeria","coordinates" : "36.7,3.216667","distance" : "6419.735875104754","achieved" : "false"
+		},
+		{
+			"name" : "Luanda, Angola","coordinates" : "-8.833333,13.333333","distance" : "10229.199690388039","achieved" : "false"
+		},
+		{
+			"name" : "Saint John's, Antigua and Barbuda","coordinates" : "17.116667,-61.85","distance" : "3157.99586791849","achieved" : "false"
+		},
+		{
+			"name" : "Buenos Aires, Argentina","coordinates" : "-34.6,-58.383333","distance" : "8273.143270226079","achieved" : "false"
+		},
+		{
+			"name" : "Canberra, Australia","coordinates" : "-35.308,149.1245","distance" : "14496.81046492909","achieved" : "false"
+		},
+		{
+			"name" : "Sydney, Australia","coordinates" : "-33.859972,151.211111","distance" : "14270.765421100863","achieved" : "false"
+		},
+		{
+			"name" : "Perth, Australia","coordinates" : "-37.813611,144.963056","distance" : "14918.012269937544","achieved" : "false"
+		},
+		{
+			"name" : "Adelaide, Australia","coordinates" : "-34.929,138.601","distance" : "15270.501616652551","achieved" : "false"
+		},
+		{
+			"name" : "Brisbane, Australia","coordinates" : "-33.859972,151.211111","distance" : "14270.765421100863","achieved" : "false"
+		},
+		{
+			"name" : "Darwin, Australia","coordinates" : "-12.45,130.833333","distance" : "14290.321341867451","achieved" : "false"
+		},
+		{
+			"name" : "Vienna, Austria","coordinates" : "48.2,16.35","distance" : "6553.761419050867","achieved" : "false"
+		},
+		{
+			"name" : "Baku, Azerbaijan","coordinates" : "40.395278,49.882222","distance" : "8821.448383987741","achieved" : "false"
+		},
+		{
+			"name" : "Nassau, The Bahamas","coordinates" : "25.066667,-77.333333","distance" : "1874.532211880063","achieved" : "false"
+		},
+		{
+			"name" : "Dhaka, Bangladesh","coordinates" : "23.7,90.35","distance" : "11621.290618530915","achieved" : "false"
+		},
+		{
+			"name" : "Bridgetown, Barbados","coordinates" : "13.1,-59.616667","distance" : "3627.371079960593","achieved" : "false"
+		},
+		{
+			"name" : "Minsk, Belarus","coordinates" : "53.91667,27.55","distance" : "6760.222479165789","achieved" : "false"
+		},
+		{
+			"name" : "Brussels, Belgium","coordinates" : "50.85,4.35","distance" : "5730.102533572673","achieved" : "false"
+		},
+		{
+			"name" : "Belmopan, Belize","coordinates" : "17.25,-88.76667","distance" : "2730.612238292644","achieved" : "false"
+		},
+		{
+			"name" : "Sucre, Bolivia","coordinates" : "-19.05,-65.25","distance" : "6565.0974922872165","achieved" : "false"
+		},
+		{
+			"name" : "Santa Cruz de la Sierra, Bolivia","coordinates" : "-17.8,-63.183333","distance" : "6488.517695056059","achieved" : "false"
+		},
+		{
+			"name" : "Gaborone, Botswana","coordinates" : "-24.658333,25.908333","distance" : "12224.083617910674","achieved" : "false"
+		},
+		{
+			"name" : "Brasilia, Brazil","coordinates" : "-15.793889,-47.882778","distance" : "6824.207376212388","achieved" : "false"
+		},
+		{
+			"name" : "Sao Paulo, Brazil","coordinates" : "-23.55,-46.633333","distance" : "7595.860146707653","achieved" : "false"
+		},
+		{
+			"name" : "Rio de Janerio, Brazil","coordinates" : "-22.908333,-43.196389","distance" : "7683.325062321185","achieved" : "false"
+		},
+		{
+			"name" : "Salvador, Brazil","coordinates" : "-12.974722,-38.476667","distance" : "7029.580111081049","achieved" : "false"
+		},
+		{
+			"name" : "Sofia, Bulgaria","coordinates" : "42.7,23.33","distance" : "7300.919167549364","achieved" : "false"
+		},
+		{
+			"name" : "Yangon, Myanmar","coordinates" : "16.85,96.183333","distance" : "12367.952105880024","achieved" : "false"
+		},
+		{
+			"name" : "Phnom Penh, Cambodia","coordinates" : "11.55,10.916667","distance" : "8619.639786482481","achieved" : "false"
+		},
+		{
+			"name" : "Ottawa, Canada","coordinates" : "45.416667,-75.683333","distance" : "480.4779126918497","achieved" : "false"
+		},
+		{
+			"name" : "Toronto, Canada","coordinates" : "43.7,-79.4","distance" : "156.3294660617715","achieved" : "false"
+		},
+		{
+			"name" : "London, Canada","coordinates" : "42.9837,-81.2497","distance" : "0.5944787589988996","achieved" : "false"
+		},
+		{
+			"name" : "Montreal, Canada","coordinates" : "45.5,-73.566667","distance" : "622.2205102813363","achieved" : "false"
+		},
+		{
+			"name" : "Quebec City, Canada","coordinates" : "46.816667,-71.216667","distance" : "829.9223501086203","achieved" : "false"
+		},
+		{
+			"name" : "Fredericton, Canada","coordinates" : "45.95,-66.666667","distance" : "1111.8814938435657","achieved" : "false"
+		},
+		{
+			"name" : "Halifax, Canada","coordinates" : "44.647778,-63.571389","distance" : "1321.368573784549","achieved" : "false"
+		},
+		{
+			"name" : "Charlottetown, Canada","coordinates" : "46.24,-63.1399","distance" : "1365.224269642058","achieved" : "false"
+		},
+		{
+			"name" : "St John's, Canada","coordinates" : "47.5675,-52.707222","distance" : "2107.8734524891715","achieved" : "false"
+		},
+		{
+			"name" : "Winnipeg, Canada","coordinates" : "49.899444,-97.139167","distance" : "1329.5373699523996","achieved" : "false"
+		},
+		{
+			"name" : "Regina, Canada","coordinates" : "50.454722,-104.606667","distance" : "1809.4761363447974","achieved" : "false"
+		},
+		{
+			"name" : "Saskatoon, Canada","coordinates" : "52.133333,-106.683333","distance" : "1988.2332624284588","achieved" : "false"
+		},
+		{
+			"name" : "Edmonton, Canada","coordinates" : "53.533333,-113.5","distance" : "2435.2670521172336","achieved" : "false"
+		},
+		{
+			"name" : "Calgary, Canada","coordinates" : "51.05,-114.066667","distance" : "2425.100293155475","achieved" : "false"
+		},
+		{
+			"name" : "Vancouver, Canada","coordinates" : "49.25,-123.1","distance" : "3015.5764250267953","achieved" : "false"
+		},
+		{
+			"name" : "Victoria. Canada","coordinates" : "48.422,-123.365","distance" : "3040.3302854382587","achieved" : "false"
+		},
+		{
+			"name" : "Whitehorse, Canada","coordinates" : "60.716667,-135.05","distance" : "3737.09754089384","achieved" : "false"
+		},
+		{
+			"name" : "Yellowknife, Canada","coordinates" : "62.442222,-114.3975","distance" : "2821.4024477035246","achieved" : "false"
+		},
+		{
+			"name" : "Iqaluit, Canada","coordinates" : "63.748611,-68.519722","distance" : "2266.2992825408273","achieved" : "false"
+		},
+		{
+			"name" : "Resolute, Canada","coordinates" : "74.6975,-94.832222","distance" : "3325.2871706514406","achieved" : "false"
+		},
+		{
+			"name" : "Niagara Falls, Canada","coordinates" : "43.0799,-79.0747","distance" : "163.4839358415974","achieved" : "false"
+		},
+		{
+			"name" : "Whistler, Canada","coordinates" : "50.120833,-122.954444","distance" : "3001.2611832032","achieved" : "false"
+		},
+		{
+			"name" : "Kamloops, Canada","coordinates" : "50.676111,-120.340833","distance" : "2829.1020449085718","achieved" : "false"
+		},
+		{
+			"name" : "Banff, Canada","coordinates" : "51.178056,-115.571944","distance" : "2523.2676426162525","achieved" : "false"
+		},
+		{
+			"name" : "Jasper, Canada","coordinates" : "52.873056,-118.082222","distance" : "2701.32873706766","achieved" : "false"
+		},
+		{
+			"name" : "Kitchener, Canada","coordinates" : "43.45,-80.483333","distance" : "74.32363076237647","achieved" : "false"
+		},
+		{
+			"name" : "Santiago, Chile","coordinates" : "-33.45,-70.666667","distance" : "7933.295407826256","achieved" : "false"
+		},
+		{
+			"name" : "Beijing, China","coordinates" : "39.916667,116.383333","distance" : "9841.314969228764","achieved" : "false"
+		},
+		{
+			"name" : "Shanghai, China","coordinates" : "31.2,121.5","distance" : "10598.876951786115","achieved" : "false"
+		},
+		{
+			"name" : "Guangzhou, China","coordinates" : "23.133333,113.266667","distance" : "11588.066345262368","achieved" : "false"
+		},
+		{
+			"name" : "Nanjing, China","coordinates" : "32.05,118.766667","distance" : "10580.235292536529","achieved" : "false"
+		},
+		{
+			"name" : "Bogota, Colombia","coordinates" : "4.598056,-74.075833","distance" : "4006.589356354194","achieved" : "false"
+		},
+		{
+			"name" : "San Jose, Costa Rica","coordinates" : "9.933333,-84.083333","distance" : "3412.9768101687146","achieved" : "false"
+		},
+		{
+			"name" : "Zagreb, Croatia","coordinates" : "45.816667,15.983333","distance" : "6678.495355353992","achieved" : "false"
+		},
+		{
+			"name" : "Havana, Cuba","coordinates" : "23.133333,-82.383333","distance" : "2046.569827807536","achieved" : "false"
+		},
+		{
+			"name" : "Nicosia, Cyprus","coordinates" : "35.166667,33.366667","distance" : "8416.401657486544","achieved" : "false"
+		},
+		{
+			"name" : "Prague, Czech Republic","coordinates" : "50.083333,14.416667","distance" : "6335.800698560772","achieved" : "false"
+		},
+		{
+			"name" : "Copenhagen, Denmark","coordinates" : "55.676111,12.568333","distance" : "5931.891143676368","achieved" : "false"
+		},
+		{
+			"name" : "Santo Domingo, Dominican Republic","coordinates" : "18.466667,-69.95","distance" : "2709.432788652299","achieved" : "false"
+		},
+		{
+			"name" : "Quito, Ecuador","coordinates" : "-0.233333,-78.516667","distance" : "4457.370658529577","achieved" : "false"
+		},
+		{
+			"name" : "Alexandria, Egypt","coordinates" : "31.2,29.916667","distance" : "8513.660364819623","achieved" : "false"
+		},
+		{
+			"name" : "Giza, Egypt","coordinates" : "30.016667,31.216667","distance" : "8681.34023224514","achieved" : "false"
+		},
+		{
+			"name" : "Tallinn, Estonia","coordinates" : "59.437222,24.745278","distance" : "6282.0144100696325","achieved" : "false"
+		},
+		{
+			"name" : "Addis Ababa, Ethiopia","coordinates" : "9.03,38.74","distance" : "10782.210379485285","achieved" : "false"
+		},
+		{
+			"name" : "Suva, Fiji","coordinates" : "-18.1416,178.4419","distance" : "11293.39517523568","achieved" : "false"
+		},
+		{
+			"name" : "Helsinki, Finland","coordinates" : "60.170833,24.9375","distance" : "6245.2079628485835","achieved" : "false"
+		},
+		{
+			"name" : "Paris, France","coordinates" : "48.8567,2.3508","distance" : "5709.214621684246","achieved" : "false"
+		},
+		{
+			"name" : "Marseille, France","coordinates" : "43.2964,5.37","distance" : "6184.566736899467","achieved" : "false"
+		},
+		{
+			"name" : "Nice, France","coordinates" : "43.7034,7.2663","distance" : "6280.681129129396","achieved" : "false"
+		},
+		{
+			"name" : "Calais, France","coordinates" : "50.5653,1.5123","distance" : "5578.972049840228","achieved" : "false"
+		},
+		{
+			"name" : "French Polynesia","coordinates" : "-17.533333,-149.566667","distance" : "8958.696042212747","achieved" : "false"
+		},
+		{
+			"name" : "Reunion","coordinates" : "-21.114444,55.5325","distance" : "14206.9163761039","achieved" : "false"
+		},
+		{
+			"name" : "New Caledonia","coordinates" : "-21.25,165.3","distance" : "12482.848036831067","achieved" : "false"
+		},
+		{
+			"name" : "Saint Martin","coordinates" : "18.075278,-63.06","distance" : "3014.9551341299207","achieved" : "false"
+		},
+		{
+			"name" : "Saint Pierre and Miquelon","coordinates" : "46.783333,-56.2","distance" : "1859.9085783560722","achieved" : "false"
+		},
+		{
+			"name" : "Tbilisi, Georgia","coordinates" : "41.716667,44.783333","distance" : "8482.573523640272","achieved" : "false"
+		},
+		{
+			"name" : "Berlin, Germany","coordinates" : "52.516667,13.383333","distance" : "6142.855268259545","achieved" : "false"
+		},
+		{
+			"name" : "Hamburg, Germany","coordinates" : "53.565278,10.001389","distance" : "5907.82705696701","achieved" : "false"
+		},
+		{
+			"name" : "Munich, Germany","coordinates" : "48.133333,11.566667","distance" : "6287.579777923109","achieved" : "false"
+		},
+		{
+			"name" : "Cologne, Germany","coordinates" : "50.936389,6.952778","distance" : "5874.157798329144","achieved" : "false"
+		},
+		{
+			"name" : "Hanover, Germany","coordinates" : "52.366667,9.716667","distance" : "5954.199898171712","achieved" : "false"
+		},
+		{
+			"name" : "Accra, Ghana","coordinates" : "5.55,-0.2","distance" : "8203.458706747986","achieved" : "false"
+		},
+		{
+			"name" : "Athens, Greece","coordinates" : "37.966667,23.716667","distance" : "7650.446353673894","achieved" : "false"
+		},
+		{
+			"name" : "Guatemala City, Guatemala","coordinates" : "14.613333,-90.535278","distance" : "3034.8337807292364","achieved" : "false"
+		},
+		{
+			"name" : "Conakry, Guinea","coordinates" : "9.509167,-13.712222","distance" : "6913.867369260021","achieved" : "false"
+		},
+		{
+			"name" : "Georgetown, Guyana","coordinates" : "6.8,-58.166667","distance" : "4272.9571282593115","achieved" : "false"
+		},
+		{
+			"name" : "Port-au-Prince, Haiti","coordinates" : "18.533333,-72.333333","distance" : "2634.644972480699","achieved" : "false"
+		},
+		{
+			"name" : "Budapest, Hungary","coordinates" : "47.4925,19.051389","distance" : "6746.802023669766","achieved" : "false"
+		},
+		{
+			"name" : "Reykjavik, Iceland","coordinates" : "64.133333,-21.933333","distance" : "4022.6014293042726","achieved" : "false"
+		},
+		{
+			"name" : "Mumbai, India","coordinates" : "18.975,72.825833","distance" : "11697.403016758835","achieved" : "false"
+		},
+		{
+			"name" : "Delhi, India","coordinates" : "28.61,77.23","distance" : "10885.419941379603","achieved" : "false"
+		},
+		{
+			"name" : "Bangalore, India","coordinates" : "12.966667,77.566667","distance" : "12435.756754506878","achieved" : "false"
+		},
+		{
+			"name" : "Jakarta, Indonesia","coordinates" : "-6.2,106.816667","distance" : "14675.935264480171","achieved" : "false"
+		},
+		{
+			"name" : "Tehran, Iran","coordinates" : "35.696111,51.423056","distance" : "9295.19247777789","achieved" : "false"
+		},
+		{
+			"name" : "Baghdad, Iraq","coordinates" : "33.333333,44.433333","distance" : "9159.400240872674","achieved" : "false"
+		},
+		{
+			"name" : "Dublin, Ireland","coordinates" : "53.347778,-6.259722","distance" : "5013.238288331225","achieved" : "false"
+		},
+		{
+			"name" : "Cork, Ireland","coordinates" : "51.897222,-8.47","distance" : "4933.738474775351","achieved" : "false"
+		},
+		{
+			"name" : "Jerusalem, Israel","coordinates" : "31.783333,35.216667","distance" : "8782.301915393095","achieved" : "false"
+		},
+		{
+			"name" : "Bethlehem, Israel","coordinates" : "31.703056,35.195556","distance" : "8787.317725991034","achieved" : "false"
+		},
+		{
+			"name" : "Tel Aviv, Israel","coordinates" : "32.066667,34.783333","distance" : "8735.408330213615","achieved" : "false"
+		},
+		{
+			"name" : "Rome, Italy","coordinates" : "41.9,12.5","distance" : "6711.128204917336","achieved" : "false"
+		},
+		{
+			"name" : "Venice, Italy","coordinates" : "45.4375,12.335833","distance" : "6488.461241247464","achieved" : "false"
+		},
+		{
+			"name" : "Florence, Italy","coordinates" : "43.783333,11.25","distance" : "6521.15007545287","achieved" : "false"
+		},
+		{
+			"name" : "Milan, Italy","coordinates" : "45.466667,9.183333","distance" : "6298.411517686089","achieved" : "false"
+		},
+		{
+			"name" : "Kingston, Jamaica","coordinates" : "17.983333,-76.8","distance" : "2603.567831969078","achieved" : "false"
+		},
+		{
+			"name" : "Tokyo, Japan","coordinates" : "35.683333,139.683333","distance" : "9569.233084007226","achieved" : "false"
+		},
+		{
+			"name" : "Yokohama, Japan","coordinates" : "35.444167,139.638056","distance" : "9592.66036168079","achieved" : "false"
+		},
+		{
+			"name" : "Osaka, Japan","coordinates" : "34.693889,135.502222","distance" : "9821.474072471396","achieved" : "false"
+		},
+		{
+			"name" : "Kyoto, Japan","coordinates" : "35.011667,135.768333","distance" : "9782.192398571588","achieved" : "false"
+		},
+		{
+			"name" : "Amman, Jordan","coordinates" : "31.949722,35.932778","distance" : "8810.366694747978","achieved" : "false"
+		},
+		{
+			"name" : "Astana, Kazakstan","coordinates" : "51.166667,71.433333","distance" : "8535.883379610163","achieved" : "false"
+		},
+		{
+			"name" : "Nairohi, Kenya","coordinates" : "-1.283333,36.816667","distance" : "11435.055448727087","achieved" : "false"
+		},
+		{
+			"name" : "Seoul, South Korea","coordinates" : "37.566667,126.966667","distance" : "9829.79427192031","achieved" : "false"
+		},
+		{
+			"name" : "Bishkek, Kyrgzstan","coordinates" : "42.874722,74.612222","distance" : "9416.059820381775","achieved" : "false"
+		},
+		{
+			"name" : "Vientiane, Laos","coordinates" : "17.966667,102.6","distance" : "12247.23531647402","achieved" : "false"
+		},
+		{
+			"name" : "Riga, Latvia","coordinates" : "56.948889,24.106389","distance" : "6407.799634316743","achieved" : "false"
+		},
+		{
+			"name" : "Beirut, Lebanon","coordinates" : "33.886944,35.513056","distance" : "8635.851464656836","achieved" : "false"
+		},
+		{
+			"name" : "Tripoli, Libya","coordinates" : "32.902222,13.185833","distance" : "7326.96906945026","achieved" : "false"
+		},
+		{
+			"name" : "Vilnius, Lithuania","coordinates" : "54.683333,25.283333","distance" : "6605.007397967048","achieved" : "false"
+		},
+		{
+			"name" : "Antananarivo, Madagascar","coordinates" : "-18.933333,47.516667","distance" : "13475.824229379952","achieved" : "false"
+		},
+		{
+			"name" : "Kuala Lumpur, Malaysia","coordinates" : "3.133333,101.683333","distance" : "13777.33446629549","achieved" : "false"
+		},
+		{
+			"name" : "Nouakchott, Mauritania","coordinates" : "18.1,-15.95","distance" : "6161.274373295429","achieved" : "false"
+		},
+		{
+			"name" : "Mexico City, Mexico","coordinates" : "19.4325,-99.131111","distance" : "2878.2109393316828","achieved" : "false"
+		},
+		{
+			"name" : "Monte Carlo, Monaco","coordinates" : "43.739722,7.427222","distance" : "6288.636957488212","achieved" : "false"
+		},
+		{
+			"name" : "Ulaanbaatar, Mongolia","coordinates" : "47.92,106.92","distance" : "9144.290537354831","achieved" : "false"
+		},
+		{
+			"name" : "Casablanca, Morocco","coordinates" : "33.533333,-7.583333","distance" : "5843.947740514146","achieved" : "false"
+		},
+		{
+			"name" : "Windhoek, Namibia","coordinates" : "-22.57,17.083611","distance" : "11436.550221284586","achieved" : "false"
+		},
+		{
+			"name" : "Kathmandu, Nepal","coordinates" : "27.7,85.333333","distance" : "11145.326307613372","achieved" : "false"
+		},
+		{
+			"name" : "Amsterdam, Netherlands","coordinates" : "52.366667,4.9","distance" : "5688.802242096169","achieved" : "false"
+		},
+		{
+			"name" : "Auckland, New Zealand","coordinates" : "-36.85,174.783333","distance" : "12704.49320387002","achieved" : "false"
+		},
+		{
+			"name" : "Christchurch, New Zealand","coordinates" : "-43.53,172.620278","distance" : "13189.746543628613","achieved" : "false"
+		},
+		{
+			"name" : "Wellington, New Zealand","coordinates" : "-41.288889,174.777222","distance" : "12936.731564373886","achieved" : "false"
+		},
+		{
+			"name" : "Abuja, Nigeria","coordinates" : "9.066667,7.483333","distance" : "8536.526395246388","achieved" : "false"
+		},
+		{
+			"name" : "Lagos, Nigeria","coordinates" : "6.45,3.383333","distance" : "8410.523107177543","achieved" : "false"
+		},
+		{
+			"name" : "Oslo, Norway","coordinates" : "59.95,10.75","distance" : "5635.245789522208","achieved" : "false"
+		},
+		{
+			"name" : "Muscat, Oman","coordinates" : "23.6,58.55","distance" : "10690.583165575084","achieved" : "false"
+		},
+		{
+			"name" : "Karachi, Pakistan","coordinates" : "24.86,67.01","distance" : "10927.580476451085","achieved" : "false"
+		},
+		{
+			"name" : "Lahore, Pakistan","coordinates" : "31.549722,74.343611","distance" : "10520.515748928954","achieved" : "false"
+		},
+		{
+			"name" : "Islamabad, Pakistan","coordinates" : "33.716667,73.066667","distance" : "10273.860196471374","achieved" : "false"
+		},
+		{
+			"name" : "Gaza, Palestine","coordinates" : "31.516667,34.45","distance" : "8758.634728138719","achieved" : "false"
+		},
+		{
+			"name" : "Panama City, Panama","coordinates" : "8.966667,-79.533333","distance" : "3506.3405723486435","achieved" : "false"
+		},
+		{
+			"name" : "Port Moresby, Papua New Guinea","coordinates" : "-9.478472,147.148058","distance" : "13000.196536674744","achieved" : "false"
+		},
+		{
+			"name" : "Asuncion, Paraguay","coordinates" : "-25.266667,-57.633333","distance" : "7375.6591872863055","achieved" : "false"
+		},
+		{
+			"name" : "Lima, Peru","coordinates" : "-12.043333,-77.028333","distance" : "5680.193925249374","achieved" : "false"
+		},
+		{
+			"name" : "Manila, Philippines","coordinates" : "14.583333,120.966667","distance" : "12245.797101388622","achieved" : "false"
+		},
+		{
+			"name" : "Warsaw, Poland","coordinates" : "52.233333,21.016667","distance" : "6553.756099025313","achieved" : "false"
+		},
+		{
+			"name" : "Lisbon, Portugal","coordinates" : "38.766667,-9.15","distance" : "5453.659622027558","achieved" : "false"
+		},
+		{
+			"name" : "Bucharest, Romania","coordinates" : "44.416667,26.1","distance" : "7336.348609157307","achieved" : "false"
+		},
+		{
+			"name" : "Moscow, Russia","coordinates" : "55.75,37.616667","distance" : "7063.469271591801","achieved" : "false"
+		},
+		{
+			"name" : "Saint Petersburg, Russia","coordinates" : "59.95,30.3","distance" : "6475.71712028252","achieved" : "false"
+		},
+		{
+			"name" : "Kigali, Rwanda","coordinates" : "-1.943889,30.059444","distance" : "10994.950597276908","achieved" : "false"
+		},
+		{
+			"name" : "Castries, Saint Lucia","coordinates" : "14.016667,-60.983333","distance" : "3480.5118862164204","achieved" : "false"
+		},
+		{
+			"name" : "Riyadh, Saudi Arabia","coordinates" : "24.633333,46.716667","distance" : "10005.261048390812","achieved" : "false"
+		},
+		{
+			"name" : "Mecca, Saudi Arabia","coordinates" : "21.416667,39.816667","distance" : "9872.041964661576","achieved" : "false"
+		},
+		{
+			"name" : "Medina, Saudi Arabia","coordinates" : "24.466667,39.6","distance" : "9615.082641527251","achieved" : "false"
+		},
+		{
+			"name" : "Belgrade, Serbia","coordinates" : "44.8,20.466667","distance" : "6998.605109899402","achieved" : "false"
+		},
+		{
+			"name" : "Singapore","coordinates" : "1.283333,103.833333","distance" : "13951.420242068114","achieved" : "false"
+		},
+		{
+			"name" : "Cape Town, South Africa","coordinates" : "-33.925278,18.423889","distance" : "12237.203431950824","achieved" : "false"
+		},
+		{
+			"name" : "Johannesburg, South Africa","coordinates" : "-26.204444,28.045556","distance" : "12478.55407811487","achieved" : "false"
+		},
+		{
+			"name" : "Madrid, Spain","coordinates" : "40.433333,-3.7","distance" : "5743.886902728157","achieved" : "false"
+		},
+		{
+			"name" : "Barcelona, Spain","coordinates" : "41.383333,2.183333","distance" : "6085.012251868992","achieved" : "false"
+		},
+		{
+			"name" : "Colombo, Sri Lanka","coordinates" : "6.934444,79.842778","distance" : "13097.565874211283","achieved" : "false"
+		},
+		{
+			"name" : "Khartoum, Sudan","coordinates" : "15.633333,32.533333","distance" : "9859.540965790344","achieved" : "false"
+		},
+		{
+			"name" : "Stockholm, Sweden","coordinates" : "59.35,18.066667","distance" : "5997.548488719209","achieved" : "false"
+		},
+		{
+			"name" : "Zurich, Switzerland","coordinates" : "47.366667,8.55","distance" : "6154.704916893833","achieved" : "false"
+		},
+		{
+			"name" : "Geneva, Switzerland","coordinates" : "46.2,6.15","distance" : "6074.274103834229","achieved" : "false"
+		},
+		{
+			"name" : "Damascus, Syria","coordinates" : "33.5,36.3","distance" : "8710.089924059335","achieved" : "false"
+		},
+		{
+			"name" : "Taipei, Taiwan","coordinates" : "25.033333,121.633333","distance" : "11202.0114535653","achieved" : "false"
+		},
+		{
+			"name" : "Dodoma, Tanzania","coordinates" : "-6.173056,35.741944","distance" : "11716.153711491144","achieved" : "false"
+		},
+		{
+			"name" : "Bangkok, Thailand","coordinates" : "13.75,100.483333","distance" : "12689.689474546172","achieved" : "false"
+		},
+		{
+			"name" : "Port of Spain, Trinidad and Tobago","coordinates" : "10.666667,-61.516667","distance" : "3767.9017287988395","achieved" : "false"
+		},
+		{
+			"name" : "Tunis, Tunisia","coordinates" : "36.833333,10.15","distance" : "6874.4779623942495","achieved" : "false"
+		},
+		{
+			"name" : "Istanbul, Turkey","coordinates" : "41.016667,28.95","distance" : "7733.898300192386","achieved" : "false"
+		},
+		{
+			"name" : "Kampala, Uganda","coordinates" : "0.313611,32.581111","distance" : "11013.545413197873","achieved" : "false"
+		},
+		{
+			"name" : "Kiev, Ukraine","coordinates" : "50.45,30.5","distance" : "7137.379372467263","achieved" : "false"
+		},
+		{
+			"name" : "Abu Dhabi, United Arab Emirates","coordinates" : "24.466667,54.366667","distance" : "10415.199147332178","achieved" : "false"
+		},
+		{
+			"name" : "Dubai, United Arab Emirates","coordinates" : "24.95,55.333333","distance" : "10419.357963491984","achieved" : "false"
+		},
+		{
+			"name" : "London, United Kingdom","coordinates" : "51.507222,-0.1275","distance" : "5441.233177577092","achieved" : "false"
+		},
+		{
+			"name" : "Edinburgh, United Kingdom","coordinates" : "55.953056,-3.188889","distance" : "5094.712314015316","achieved" : "false"
+		},
+		{
+			"name" : "Leeds, United Kingdom","coordinates" : "53.799722,-1.549167","distance" : "5265.077230202292","achieved" : "false"
+		},
+		{
+			"name" : "Glasgow, United Kingdom","coordinates" : "55.858,-4.259","distance" : "5039.696639751894","achieved" : "false"
+		},
+		{
+			"name" : "Manchester, United Kingdom","coordinates" : "53.466667,-2.233333","distance" : "5239.477528028716","achieved" : "false"
+		},
+		{
+			"name" : "Cardiff, United Kingdom","coordinates" : "51.483333,-3.183333","distance" : "5263.350398684504","achieved" : "false"
+		},
+		{
+			"name" : "Belfast, United Kingdom","coordinates" : "54.597,-5.93","distance" : "4989.283659886864","achieved" : "false"
+		},
+		{
+			"name" : "Liverpool, United Kingdom","coordinates" : "53.4,-3","distance" : "5198.461157840855","achieved" : "false"
+		},
+		{
+			"name" : "Nottingham, United Kingdom","coordinates" : "52.95,-1.133333","distance" : "5322.6190325850375","achieved" : "false"
+		},
+		{
+			"name" : "Brighton and Hove, United Kingdom","coordinates" : "50.827778,-0.152778","distance" : "5469.495023781612","achieved" : "false"
+		},
+		{
+			"name" : "Southampton, United Kingdom","coordinates" : "50.9,-1.4","distance" : "5392.890930442127","achieved" : "false"
+		},
+		{
+			"name" : "York, United Kingdom","coordinates" : "53.958333,-1.080278","distance" : "5285.11324279922","achieved" : "false"
+		},
+		{
+			"name" : "Aberdeen, United Kingdom","coordinates" : "57.1526,-2.11","distance" : "5110.997695521866","achieved" : "false"
+		},
+		{
+			"name" : "Oxford, United Kingdom","coordinates" : "51.751944,-1.257778","distance" : "5365.048538310293","achieved" : "false"
+		},
+		{
+			"name" : "Cambridge, United Kingdom","coordinates" : "52.205,0.119","distance" : "5425.37317557824","achieved" : "false"
+		},
+		{
+			"name" : "Derry/Londonderry, United Kingdom","coordinates" : "54.9958,-7.3074","distance" : "4898.745141830458","achieved" : "false"
+		},
+		{
+			"name" : "Isle of Man","coordinates" : "54.25,-4.5","distance" : "5081.968690447037","achieved" : "false"
+		},
+		{
+			"name" : "Jersey","coordinates" : "49.19,-2.11","distance" : "5424.792251888404","achieved" : "false"
+		},
+		{
+			"name" : "Bermuda","coordinates" : "32.333333,-64.75","distance" : "1729.6105311790918","achieved" : "false"
+		},
+		{
+			"name" : "British Indian Ocean Territory","coordinates" : "-7.3,72.4","distance" : "14153.63934048716","achieved" : "false"
+		},
+		{
+			"name" : "British Virgin Islands","coordinates" : "18.5,-64.5","distance" : "2911.847143077415","achieved" : "false"
+		},
+		{
+			"name" : "Falkland Islands","coordinates" : "-51.683333,-59.166667","distance" : "9945.000929484171","achieved" : "false"
+		},
+		{
+			"name" : "Gibraltar","coordinates" : "36.143,-5.353","distance" : "5858.423041462886","achieved" : "false"
+		},
+		{
+			"name" : "Pitcarin Island","coordinates" : "-25.066667,-130.1","distance" : "8396.075327788685","achieved" : "false"
+		},
+		{
+			"name" : "Saint Helena","coordinates" : "-15.95,-5.716667","distance" : "9335.287288384976","achieved" : "false"
+		},
+		{
+			"name" : "Ascension Island","coordinates" : "-7.933333,-14.366667","distance" : "8136.705721646353","achieved" : "false"
+		},
+		{
+			"name" : "South Georgia and the South Sandwich Islands","coordinates" : "-54.25,-36.75","distance" : "10748.482281852414","achieved" : "false"
+		},
+		{
+			"name" : "South Pole, Anarctica","coordinates" : "-90,0","distance" : "13693.201083431813","achieved" : "false"
+		},
+		{
+			"name" : "North Pole, The Arctic","coordinates" : "90,0","distance" : "4840.769289683237","achieved" : "false"
+		},
+		{
+			"name" : "New York City, United States","coordinates" : "40.6643,-73.9385","distance" : "609.0916460627468","achieved" : "false"
+		},
+		{
+			"name" : "Los Angeles, United States","coordinates" : "34.0194,-118.4108","distance" : "3105.561835180869","achieved" : "false"
+		},
+		{
+			"name" : "Chicago, United States","coordinates" : "41.8376,-87.6818","distance" : "503.4339852352459","achieved" : "false"
+		},
+		{
+			"name" : "Houston, United States","coordinates" : "29.7805,-95.3863","distance" : "1790.2759420278387","achieved" : "false"
+		},
+		{
+			"name" : "Philadelphia, United States","coordinates" : "39.95,-75.166667","distance" : "563.3162858028954","achieved" : "false"
+		},
+		{
+			"name" : "Phoenix, United States","coordinates" : "33.45,-112.066667","distance" : "2661.2950610544003","achieved" : "false"
+		},
+		{
+			"name" : "San Diego, United States","coordinates" : "32.8153,-117.135","distance" : "3070.9267528230002","achieved" : "false"
+		},
+		{
+			"name" : "Austin, United States","coordinates" : "30.3072,-97.756","distance" : "1881.6593324772368","achieved" : "false"
+		},
+		{
+			"name" : "San Francisco, United States","coordinates" : "37.7751,-122.4193","distance" : "3240.842778071478","achieved" : "false"
+		},
+		{
+			"name" : "Columbus. United States","coordinates" : "39.9848,-82.985","distance" : "337.0345959107896","achieved" : "false"
+		},
+		{
+			"name" : "Seattle, United States","coordinates" : "47.6205,-122.3509","distance" : "2979.2180447852857","achieved" : "false"
+		},
+		{
+			"name" : "Denver, United States","coordinates" : "39.7618,-104.8806","distance" : "1849.924552838903","achieved" : "false"
+		},
+		{
+			"name" : "Washington DC, United States","coordinates" : "38.9041,-77.0171","distance" : "533.4728264323936","achieved" : "false"
+		},
+		{
+			"name" : "Boston, United States","coordinates" : "42.358056,-71.063611","distance" : "772.8823161907823","achieved" : "false"
+		},
+		{
+			"name" : "Nashville, United States","coordinates" : "36.1718,-86.785","distance" : "827.7059239602199","achieved" : "false"
+		},
+		{
+			"name" : "Las Vegas, United States","coordinates" : "36.2277,-115.264","distance" : "2766.552929755014","achieved" : "false"
+		},
+		{
+			"name" : "Atlanta, United States","coordinates" : "33.7629,-84.4227","distance" : "983.6238219936453","achieved" : "false"
+		},
+		{
+			"name" : "Miami, United States","coordinates" : "25.7752,-80.2086","distance" : "1774.3734430526617","achieved" : "false"
+		},
+		{
+			"name" : "New Orleans, United States","coordinates" : "30.0686,-89.939","distance" : "1510.2391436412488","achieved" : "false"
+		},
+		{
+			"name" : "Honolulu, United States","coordinates" : "21.3259,-157.8453","distance" : "6801.471499089445","achieved" : "false"
+		},
+		{
+			"name" : "Saint Louis, United States","coordinates" : "38.6357,-90.2446","distance" : "831.6450506910835","achieved" : "false"
+		},
+		{
+			"name" : "Salt Lake City, United States","coordinates" : "40.7785,-111.9314","distance" : "2350.3681124251075","achieved" : "false"
+		},
+		{
+			"name" : "American Samoa","coordinates" : "-14.3,-170.7","distance" : "10225.100053813714","achieved" : "false"
+		},
+		{
+			"name" : "Guam","coordinates" : "13.5,144.8","distance" : "11279.499127781903","achieved" : "false"
+		},
+		{
+			"name" : "Puerto Rico, United States","coordinates" : "18.2,-66.5","distance" : "2857.2417781857275","achieved" : "false"
+		},
+		{
+			"name" : "US Virgin Islands","coordinates" : "18.35,-64.933333","distance" : "2907.1138526244386","achieved" : "false"
+		},
+		{
+			"name" : "Montevideo, Uruguay","coordinates" : "-34.883611,-56.181944","distance" : "8357.046943320745","achieved" : "false"
+		},
+		{
+			"name" : "Vatican City","coordinates" : "41.903333,12.453333","distance" : "6708.0475444849935","achieved" : "false"
+		},
+		{
+			"name" : "Hong Kong","coordinates" : "22.3,114.2","distance" : "11653.858518683113","achieved" : "false"
+		},
+		{
+			"name" : "Caracas, Venezuela","coordinates" : "10.5,-66.966667","distance" : "3581.6665714769274","achieved" : "false"
+		},
+		{
+			"name" : "Hanoi, Vietnam","coordinates" : "21.033333,105.85","distance" : "11907.780681862616","achieved" : "false"
+		},
+		{
+			"name" : "Ho Chi Minh City, Vietnam","coordinates" : "10.776889,106.700806","distance" : "12947.813598037448","achieved" : "false"
+		},
+		{
+			"name" : "Sana'a, Yemen","coordinates" : "15.348333,44.206389","distance" : "10628.026519771664","achieved" : "false"
+		},
+		{
+			"name" : "Lusaka, Zambia","coordinates" : "15.416667,28.283333","distance" : "9588.364390783549","achieved" : "false"
+		},
+		{
+			"name" : "Harare, Zimbabwe","coordinates" : "-17.833333,31.05","distance" : "12173.461839381942","achieved" : "false"
+		}
+	]
+}
